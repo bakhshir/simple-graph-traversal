@@ -1,2 +1,2 @@
 # simple-graph-traversal
-Simple java program for a graph traversal, from my PhD work
+Simple JAVA program for a graph traversal, from my PhD work
